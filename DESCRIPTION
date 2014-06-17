@@ -1,0 +1,9 @@
+Package: rpackageTest
+Title: test package
+Version: 0.1
+Authors@R: "First Last <first.last@example.com> [aut, cre]"
+Description: implements a simple function
+Depends:
+    R (>= 3.0.2)
+License: GPL
+LazyData: true
